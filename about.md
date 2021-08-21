@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm a clinical psychologist
+NA
 
 ### More Information
 
-I have two cats and I drink too much coffee!
+NA
 
 ### Contact me
 
-[rgloria@ncsu.edu](mailto:rgloria@ncsu.edu)
+[test@ncsu.edu](mailto:test@ncsu.edu)
